@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 1921005580
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cea91b4aff8ca79df03ebd92d52e7674
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Download/Fish/Scene/Fish.unity
+Dependencies: []

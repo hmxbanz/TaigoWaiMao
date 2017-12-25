@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2344998444
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 733593a3a0568c567c3725719850a577
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c716503e9f340858962ed36a3d27ecf3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 057f1ca3a088a3f4ab1903daebd4c4fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8dd5878fd5b0c1f4b90be4537c0a68d5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Fish/Prefab/UIPrefab/UIOther/TxtScoreTip.prefab
+Dependencies: []

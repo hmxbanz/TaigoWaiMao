@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2356371410
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e9671c5281847a142622ab7d4af80f1c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aea8d57ae5583a13a5fb08152d487b70
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75e7459110b9666449485c40f25362a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e2747e3775af504da1a4d5a46c5a1ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Fish/Prefab/ItemPrefab/wang.prefab
+Dependencies: []
