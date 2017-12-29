@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 130411868
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c5c2bf048f717a180003e0f7553c3cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f4e163c165fde9fe1a84ec67dd70ffc6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b734b5f1082d3f46ad4e0416305db80, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Fruit/Prefab/RolePrefab/Grape.prefab
+Dependencies: []

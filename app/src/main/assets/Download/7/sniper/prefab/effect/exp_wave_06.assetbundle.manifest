@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 658064894
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9049e13201dd6385cbc08ceaa976239
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b2a2e3c4bfd04542a65877c84f80ebd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 889dbc56c52724a22a85b5e3a8175191, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdbb3007a857e514a971be1db6faf043, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Sniper/Prefab/Effect/Exp_Wave_06.prefab
+Dependencies: []

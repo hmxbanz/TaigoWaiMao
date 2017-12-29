@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1957354865
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 49d95b7cb53d6edd54bb31767de96cce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb10c1bf7b7f3e8194f9abe1bf9fec03
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c9f25f95f6634a448ff7a6fd69239ca, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/OldFactory/Prefab/Effect/green_blood.prefab
+Dependencies: []

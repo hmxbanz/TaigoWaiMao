@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 709248204
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e664d3b82e57ab54ad4c7231df6542d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Download/Space/Scene/Space.unity
+Dependencies: []

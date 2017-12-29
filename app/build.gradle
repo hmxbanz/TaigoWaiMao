@@ -35,4 +35,5 @@ dependencies {
     compile 'com.zhy:okhttputils:2.6.2'                         //网络请求
     compile 'com.jaeger.statusbaruitl:library:1.4.0'    //设置状态栏
     compile 'org.greenrobot:eventbus:3.1.1'             //异步请求
+    compile 'com.clj.fastble:FastBleLib:1.2.1'    //蓝牙
 }

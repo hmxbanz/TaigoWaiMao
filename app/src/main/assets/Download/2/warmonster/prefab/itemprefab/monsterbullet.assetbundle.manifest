@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3055779608
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7319d46413943f41e6fbc7079a73b0ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 408a8cba5e78e3efa7a71d4f79fad58a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b8f0fe1a4f9f6b4aa4661bf15f77b7b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Warmonster/Prefab/ItemPrefab/monsterBullet.prefab
+Dependencies: []

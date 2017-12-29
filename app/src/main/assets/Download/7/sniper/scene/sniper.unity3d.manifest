@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 2085511997
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21eee1323f38c8f7cca91e4e2a93529f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Download/Sniper/Scene/Sniper.unity
+Dependencies: []

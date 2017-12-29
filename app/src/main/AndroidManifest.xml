@@ -43,7 +43,7 @@
     </activity>
 
         <activity   android:name=".QrCodeActivity" android:screenOrientation="portrait" />
-
+        <service android:name=".service.BluetoothService" />
     </application>
 
 </manifest>

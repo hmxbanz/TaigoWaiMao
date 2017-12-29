@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 2698997655
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b31d44fd904a4b42fe94ae03efabb71
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Download/Warmonster/Scene/Warmonster.unity
+Dependencies:
+- F:/My/MyUnity/En/TaigoGame12-load/Assets/../AssetBundles/Android/warmonster/prefab/effect/monsterfire.assetbundle

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4155261822
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4babe1d1b21f153ebe4050b2fd20900
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 54b9a25584ea64cf77b59fcee89ae76b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c6ec0ffa11106549aad60e1aacc21b6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Wow/Prefab/Effect/Blood_Effect.prefab
+Dependencies: []

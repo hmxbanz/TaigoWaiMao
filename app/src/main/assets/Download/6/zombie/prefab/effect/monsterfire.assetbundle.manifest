@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3447551142
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d460ee3f95bda57ffd412b83c4d5170
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 86cbd8b7fcf86feb31e77d7e449df5f5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e57d2b0377797bd4db475d41d535dd98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24aaeba55ea515149b4fa9ed13f658c5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Zombie/Prefab/Effect/MonsterFire.prefab
+Dependencies: []

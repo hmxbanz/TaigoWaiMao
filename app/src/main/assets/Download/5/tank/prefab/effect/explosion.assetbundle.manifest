@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4263079726
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9208282285e244d95bf57ef917c69807
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d100cef65796fbc607efd776588e0589
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Tank/Prefab/Effect/Explosion.prefab
+Dependencies: []

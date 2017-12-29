@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 1470458558
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 25f3dbc4e06268655c5415f55cfaba9b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Download/Wow/Scene/Wow.unity
+Dependencies: []

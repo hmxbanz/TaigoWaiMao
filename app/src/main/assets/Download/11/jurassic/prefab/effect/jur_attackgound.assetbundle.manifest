@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 4190879712
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf3a1e9b528fcd667099bde3f2645ba2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 927e707a75eb74da59b1d26539299a4e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6f52bdeee3304a47b5c544e1ab8cd56, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Jurassic/Prefab/Effect/JUR_AttackGound.prefab
+Dependencies: []

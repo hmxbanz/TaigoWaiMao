@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 857554969
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b25b9e6b9875271c1e489a8d78a61f05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3af99b83e3d58d4f8cfc3914b834d4a5
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Tank/Prefab/RolePrefab/PlayerGun.controller
+Dependencies:
+- F:/My/MyUnity/En/TaigoGame12-load/Assets/../AssetBundles/Android/tank/prefab/roleprefab/tankattack.assetbundle

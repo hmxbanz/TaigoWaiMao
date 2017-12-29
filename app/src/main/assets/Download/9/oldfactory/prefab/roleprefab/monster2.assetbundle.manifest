@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 3976045116
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7b5dfaedb2c197faa02a3fa6afa098b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10be73ef65218e1e0c7918d8afabe9ba
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c38c30322ef9bf04b96abf45d7fd18ac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49c9598bc6101b740892c13608eff7ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb589fcb55165194fbf0cd8343abff59, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/OldFactory/Prefab/RolePrefab/monster2.prefab
+Dependencies: []

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2889004005
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c613e08f71980c87bc62aef1c8a39a66
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9990b9070b01c90ae53d8515c8c5923e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 12
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 26
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 87
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Tank/Prefab/Effect/GroundHit_01.prefab
+Dependencies: []

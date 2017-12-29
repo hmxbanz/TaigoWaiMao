@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2096239577
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: space/prefab/roleprefab/monster1.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: space/prefab/roleprefab/monster2.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: space/prefab/roleprefab/monster3.assetbundle
+      Dependencies: {}
+    Info_3:
+      Name: space/prefab/roleprefab/monster4.assetbundle
+      Dependencies: {}
+    Info_4:
+      Name: space/prefab/roleprefab/monster5.assetbundle
+      Dependencies: {}
+    Info_5:
+      Name: space/prefab/roleprefab/monster6.assetbundle
+      Dependencies: {}
+    Info_6:
+      Name: space/prefab/roleprefab/monster7.assetbundle
+      Dependencies: {}
+    Info_7:
+      Name: space/prefab/roleprefab/monster8.assetbundle
+      Dependencies: {}
+    Info_8:
+      Name: space/prefab/effect/effect_lightexplode.assetbundle
+      Dependencies: {}
+    Info_9:
+      Name: space/prefab/effect/effect_starexplode.assetbundle
+      Dependencies: {}
+    Info_10:
+      Name: space/prefab/effect/exp_die.assetbundle
+      Dependencies: {}
+    Info_11:
+      Name: space/prefab/itemprefab/bulletfollow.assetbundle
+      Dependencies: {}
+    Info_12:
+      Name: space/prefab/itemprefab/lightbullet.assetbundle
+      Dependencies: {}
+    Info_13:
+      Name: space/prefab/itemprefab/monsterbullet.assetbundle
+      Dependencies: {}
+    Info_14:
+      Name: space/scene/space.unity3d
+      Dependencies: {}

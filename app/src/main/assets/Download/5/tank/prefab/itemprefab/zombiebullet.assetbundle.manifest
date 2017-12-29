@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 797711986
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d05c69e72cbf521468da384ee1690ad8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 56385225afba8570bef0a80655c537c4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: debe22c6d4915bc4eba0909fa274a7a3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Tank/Prefab/ItemPrefab/ZombieBullet.prefab
+Dependencies:
+- F:/My/MyUnity/En/TaigoGame12-load/Assets/../AssetBundles/Android/tank/prefab/effect/groundhit_01.assetbundle

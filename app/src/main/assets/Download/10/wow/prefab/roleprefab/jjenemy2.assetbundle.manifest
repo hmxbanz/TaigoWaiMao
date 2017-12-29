@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 3777674790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 791c9ae2f0ad885f612e73fb1032b405
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e54e539458780a949d30ac03e2798f7a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d4475f352b5ce5d448b0d9bd219236ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24aaeba55ea515149b4fa9ed13f658c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2408a1a7f0b545af8654cfc23415fa2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 991c648d1d2998e4788584d6e54ca629, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Wow/Prefab/RolePrefab/JJEnemy2.prefab
+Dependencies: []

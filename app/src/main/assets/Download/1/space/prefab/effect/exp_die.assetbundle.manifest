@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3295809540
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77e93da1f9ab98bb21946dd052517c92
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c6d3e3c67fccd3ca426f335eef76dd18
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdbb3007a857e514a971be1db6faf043, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Space/Prefab/Effect/Exp_Die.prefab
+Dependencies: []

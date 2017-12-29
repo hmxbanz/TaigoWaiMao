@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 2149881190
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61d999461d38ad44ec1fc11177b41130
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 89a22ab1c472bb26349f5e3cde7dc634
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 94b9cb49e4d40ab4b94117b055845f98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0330161dcf272e0419f6c9eeafb62249, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Space/Prefab/RolePrefab/monster6.prefab
+Dependencies: []

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2635089024
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ce59b1921b4a30e755a189e5cf06745
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1a19cd7a19e3f71a6bce063f898cdc2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ddc81c6e56b784f53a03563ec6b93284, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Wow/Prefab/ItemPrefab/bulletJJ.prefab
+Dependencies:
+- F:/My/MyUnity/En/TaigoGame12-load/Assets/../AssetBundles/Android/sniper/prefab/effect/exp_wave_06.assetbundle

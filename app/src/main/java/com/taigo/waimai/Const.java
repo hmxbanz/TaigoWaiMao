@@ -19,7 +19,7 @@ public class Const {
 //    public static final String IMGURI="http://test.xtaigo.com/";
 //    public static final String SERVERURI="http://test.xtaigo.com/";
     public static final String IMGURI="http://test.xtaigo.com/";
-    public static final String SERVERURI="http://twm.xtaigo.com/";
+    public static final String SERVERURI="http://wm.xtaigo.com/";
 
 
 }

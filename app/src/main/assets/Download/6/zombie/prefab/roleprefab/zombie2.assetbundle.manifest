@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 3860950945
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f762043bf854e23bd5cdc9e6e296da2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e30a7b3dc803fba88314236291ab16bd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: eeb4f3413c762d54ea59d0bc668c87ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b99fb924b1fb8da4089387b8f1a46e8b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Zombie/Prefab/RolePrefab/Zombie2.prefab
+Dependencies: []

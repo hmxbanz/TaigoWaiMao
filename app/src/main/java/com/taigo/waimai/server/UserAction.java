@@ -75,7 +75,7 @@ public class UserAction extends BaseAction {
 //绑定
     public Object bindQRCode(String qrCode,String phoneID) throws  HttpException{
         String result = "";
-        String uri = Const.SERVERURI+"cli-dg-bindbysn.php";
+        String uri = Const.SERVERURI+"cli-api-bindbysn.php";
         Response response=null;
         try {
             response= OkHttpUtils

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 39078104
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9d55678381e43e11d0c96920bf54f22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc2ac57acb023ce3369edfcc5d33382c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 12
+  Script: {instanceID: 0}
+- Class: 15
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 26
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Tank/Prefab/Effect/FireEffect_Backup.prefab
+Dependencies: []

@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 1636861774
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0aa6edbd39a04d94830ec63e4e554839
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Download/OldFactory/Scene/OldFactory.unity
+Dependencies: []

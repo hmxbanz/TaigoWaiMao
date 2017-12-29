@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 4169400718
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be9d8bcf248e8df2a14cb22e43178500
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f2753ca48b521c58b333967fc61814
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24aaeba55ea515149b4fa9ed13f658c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 94b9cb49e4d40ab4b94117b055845f98, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Tank/Prefab/Effect/Die.prefab
+Dependencies: []

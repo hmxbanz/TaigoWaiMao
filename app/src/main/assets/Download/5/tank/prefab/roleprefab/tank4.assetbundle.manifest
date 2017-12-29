@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1987751141
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 683e460a3b3888285f16ea65df1127f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dcebd1e5a539f596c8db82b22f388eb0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cde452957745e54fa2f404c4a8acef9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 415d218e88bd29947865a47b40a40ebf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Tank/Prefab/RolePrefab/tank4.prefab
+Dependencies: []
